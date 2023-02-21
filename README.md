@@ -1,6 +1,6 @@
 # 🙇🏽‍♂️ Wan Adam
 
-**`Aspiring Full-Stack Developer`**
+**`Aspiring Software Developer`**
 
 
 
