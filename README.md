@@ -1,6 +1,6 @@
 # 🙇🏽‍♂️ Wan Adam
 
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+**`Aspiring Full-Stack Developer`**
 
 
 
