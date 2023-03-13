@@ -2,6 +2,13 @@
 
 **`Aspiring Software Developer`**
 
+I'm a computer science student based in Kuala Lumpur, and I'm passionate about using my coding skills to solve real-life problems. As a freelance web developer, I have experience working on a variety of projects for clients, from e-commerce sites to online portfolios and more.
+
+My journey as a developer has been focused on building projects from the ground up, from planning and designing to implementation and testing. I believe in creating code that not only works, but is easy to read and maintain, with a focus on clean, efficient solutions.
+
+On this GitHub profile, you'll find a range of projects showcasing my skills and interests, including web development, data science, and more. Each project is a reflection of my commitment to learning and growing as a developer, and I hope they'll inspire you to build something great too!
+
+Thank you for visiting my profile, and feel free to reach out if you have any questions or would like to collaborate on a project.
 
 
 ---
