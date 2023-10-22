@@ -1,6 +1,6 @@
 # 🙇🏽‍♂️ Wan Adam
 
-**`Aspiring Software Developer`**
+**`Aspiring full stack dev`**
 
 I'm a computer science student based in Kuala Lumpur, and I'm passionate about using my coding skills to solve real-life problems. As a freelance web developer, I have experience working on a variety of projects for clients, from e-commerce sites to online portfolios and more.
 
