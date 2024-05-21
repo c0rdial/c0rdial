@@ -1,15 +1,12 @@
 # 🙇🏽‍♂️ Wan Adam
 
-**`Aspiring full stack dev`**
+**`Software Engineer`**
 
-I'm a computer science student based in Kuala Lumpur, and I'm passionate about using my coding skills to solve real-life problems. As a freelance web developer, I have experience working on a variety of projects for clients, from e-commerce sites to online portfolios and more.
+I’m a software engineer based in Kuala Lumpur, working at Vircle, where I leverage AWS, Ionic/Angular, PostgreSQL, Node.js, and Go to tackle real-world problems. My journey in development has taken me from planning and designing to implementing and testing various projects, always with an eye for clean, efficient, and maintainable code.
 
-My journey as a developer has been focused on building projects from the ground up, from planning and designing to implementation and testing. I believe in creating code that not only works, but is easy to read and maintain, with a focus on clean, efficient solutions.
+On my GitHub profile, you’ll find a variety of projects that showcase my skills and interests, ranging from web development to data science. Each project is a testament to my dedication to learning and growing as a developer, and I hope they inspire you to create something amazing too!
 
-On this GitHub profile, you'll find a range of projects showcasing my skills and interests, including web development, data science, and more. Each project is a reflection of my commitment to learning and growing as a developer, and I hope they'll inspire you to build something great too!
-
-Thank you for visiting my profile, and feel free to reach out if you have any questions or would like to collaborate on a project.
-
+Thanks for stopping by, and feel free to reach out if you have any questions or want to collaborate on a project.
 
 ---
 
