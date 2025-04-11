@@ -1,1 +1,1 @@
-on garden leave. Just vibe coding currently
+currently funemployed
